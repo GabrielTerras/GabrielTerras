@@ -1,7 +1,7 @@
 * 👋 Olá, me chamo Gabriel Rodrigues - **@GabrielTerras!**
  
  * 📘  Estudando **C#** 
- * 🏢 Trabalho atualmente de  ** IT Assistant na G+D Mobile Security**
+ * 🏢 Trabalho atualmente de  **IT Assistant na G+D Mobile Security**
   
   <a href="https://www.gi-de.com/en/" target="_blank"/>  <img alt="logoG+D"  src="https://1nce.com/wp-content/uploads/2020/03/GD_Logo__MS_285x106.png">
 ---
